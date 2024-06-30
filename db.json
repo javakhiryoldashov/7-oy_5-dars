@@ -1,0 +1,78 @@
+{
+    "furniture": [
+        {
+            "id": 1,
+            "type": "bedhroom1",
+            "name": "Minimal Bedroom",
+            "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMTJfcGhvdG9fb2ZfYV9iZWRyb29tX2lzX2luX3RoZV9hdXR1bW5fbWluaW1hbGlzdF9mN2Q4NTc1MC1iYjAzLTRkMDUtYjYwYy1hNzlmZTA5MzExOWJfMS5qcGc.jpg"
+        },
+        {
+            "id": 2,
+            "type": "bedroom2",
+            "name": "Minimal Bedroom",
+            "image": "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlOF9waG90b2dyYXBoeV9vZl9zY2FuZGluYXZpYW5fc3R5bGVfY296eV9tb2Rlcm5fYl9kYmM1NDA2Yy0zZTA0LTQzNzMtYWVhYi1iNjhkOTVkZjc5MTJfMS5qcGc.jpg"
+        },
+        {
+            "id": 3,
+            "type": "bedroom3",
+            "name": "Minimal Bedroom",
+            "image": "https://www.ikea.com/images/a-grey-green-taellasen-upholstered-bed-frame-with-privacy-sc-88f435346a1c1f0df3b1a984a24d2334.jpg"
+        },
+        {
+            "id": 4,
+            "type": "bedroom4",
+            "name": "Minimal Bedroom",
+            "image": "https://t3.ftcdn.net/jpg/00/98/76/16/360_F_98761648_uLogNnSlCfVS0RmsVlXf7DLau3mS0vGk.jpg"
+        },
+
+        {
+            "id": 5,
+            "type": "bathroom1",
+            "name": "Minimal Bedroom",
+            "image": "https://i0.wp.com/www.homebeautiful.com.au/wp-content/uploads/sites/2/2023/06/marble-brass-luxury-bathroom-1.png?resize=682%2C1024&ssl=1"
+        },
+        {
+            "id": 6,
+            "type": "bathroom2",
+            "name": "Minimal Bedroom",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Modern_bath_rooms_and_appliances_-_a_few_suggestions_about_plumbing_valuable_to_home_builders_or_those_about_to_remodel_their_present_dwellings._%281903%29_%2814778178805%29.jpg"
+        },
+        {
+            "id": 7,
+            "type": "bathroom3",
+            "name": "Minimal Bedroom",
+            "image": "https://www.beaumont-tiles.com.au/media/wysiwyg/Modern_Bathroom_Ideas_We_Know_Will_Inspire_You_To_Create_LARGE.jpg"
+        },
+        {
+            "id": 8,
+            "type": "bathroom4",
+            "name": "Minimal Bedroom",
+            "image": "https://www.nuiebathrooms.com/media/d0ancqfp/nuie-header-lunar-bathroom-furniture.jpg"
+        },
+
+        {
+            "id": 9,
+            "type": "kitchan1",
+            "name": "Minimal Bedroom",
+            "image": "https://5.imimg.com/data5/VG/EF/NI/SELLER-26543980/moduler-kitchan.jpg"
+        },
+        {
+            "id": 10,
+            "type": "kitchan2",
+            "name": "Minimal Bedroom",
+            "image": "https://i.pinimg.com/564x/3e/99/d4/3e99d4845d518c5db71a992d4f408f4c.jpg"
+        },
+        {
+            "id": 11,
+            "type": "kitchan3",
+            "name": "Bedroom",
+            "image": "https://4.imimg.com/data4/DC/YK/ANDROID-33873244/product-500x500.jpeg"
+        },
+        {
+            "id": 12,
+            "type": "kitchan4",
+            "name": "Minimal Bedroom",
+            "image": "https://4.imimg.com/data4/LO/WQ/ANDROID-6042626/product-500x500.jpeg"
+        }
+    ]
+}
